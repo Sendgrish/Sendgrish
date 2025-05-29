@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on programming.
 - 📫 How to reach me? It is easy, my email: sendgrish@gmail.com
 - 😄 Pronouns: Sendgrish
-- ⚡ Fun fact: I'm like programming very much.
 
 <!---
 Sendgrish/Sendgrish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
