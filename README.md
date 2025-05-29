@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sendgrish
 - 👀 I’m interested in programming apps and launchers.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning C#, python and C++.
 - 💞️ I’m looking to collaborate on programming.
 - 📫 How to reach me? It is easy, my email: sendgrish@gmail.com
 - 😄 Pronouns: Sendgrish
